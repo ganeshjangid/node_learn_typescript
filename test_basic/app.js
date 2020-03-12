@@ -1,4 +1,5 @@
 //Test typescript
-var x = "Hello Word";
+var x = 10;
 var y = 20;
-console.log(x + y);
+var z = "First";
+console.log(x + y + z);

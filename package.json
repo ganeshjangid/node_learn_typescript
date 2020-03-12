@@ -8,7 +8,8 @@
     "TS": "tsc",
     "dev": "ts-node ./lib/server.ts",
     "start": "node ./dist/server.js",
-    "prod": "npm run build && npm start"
+    "prod": "npm run build && npm start",
+    "testing":"tsc test_basic/4.ts"
   },
   "repository": {
     "type": "git",

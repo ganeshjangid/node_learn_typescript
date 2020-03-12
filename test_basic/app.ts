@@ -1,6 +1,6 @@
 //Test typescript
 
-let x: number="Hello Word";
+let x: number=10;
 let y: number=20;
-
-console.log(x+y);
+let z: string="First";
+console.log(x+y+z);
